@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.testing.SimpleAPITest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.124 s - in com.testing.SimpleAPITest

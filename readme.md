@@ -189,7 +189,13 @@ Para contribuir al proyecto:
 
 Este proyecto es de uso educativo para el Módulo 6 de Testing de APIs.
 
----
-**Autor:** Tu Nombre  
+## 👥 Autores
+
+|       Nombre     | GitHub                 |
+|:---------------:|:---------------------: |
+| Samuel Millelche| [@Millelche](https://github.com/Millelche) |
+| Claudio Carrasco| [@claudio-hcn](https://github.com/claudio-hcn) |
+| Lili Cedeño     | [@LilianaCedeno](https://github.com/LilianaCedeno) |
+
 **Versión:** 1.0  
 **Fecha:** Agosto 2025

@@ -177,14 +177,6 @@ mvn test -Dtest.verbose=true
 - Los tests están diseñados para ser **determinísticos** y **repetibles**
 - Se incluye generación automática de emails únicos para evitar conflictos
 
-## 🤝 Contribuciones
-
-Para contribuir al proyecto:
-1. Fork del repositorio
-2. Crear branch para nueva feature
-3. Implementar tests siguiendo los patrones existentes
-4. Enviar Pull Request con descripción detallada
-
 ## 📄 Licencia
 
 Este proyecto es de uso educativo para el Módulo 6 de Testing de APIs.
@@ -197,5 +189,7 @@ Este proyecto es de uso educativo para el Módulo 6 de Testing de APIs.
 | Claudio Carrasco| [@claudio-hcn](https://github.com/claudio-hcn) |
 | Lili Cedeño     | [@LilianaCedeno](https://github.com/LilianaCedeno) |
 
+
+## acerca de
 **Versión:** 1.0  
 **Fecha:** Agosto 2025
